@@ -18,8 +18,7 @@ The **LeafCare** frontend is a React-based web interface for detecting plant dis
 - **React** – Frontend framework  
 - **Axios** – For making HTTP requests  
 - **HTML, CSS** – Styling and layout  
-- **Flask** – Python backend (not included in this repo)  
-- **GitHub** – Version control and collaboration  
+- **Flask** – Python backend 
 
 ---
 
