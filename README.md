@@ -38,9 +38,7 @@ To run the LeafCare frontend on your local machine, follow the instructions belo
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/your-username/leafcare-frontend.git
-   cd leafcare-frontend
+   cd front-end
 
 2. **Install Dependencies**
 
